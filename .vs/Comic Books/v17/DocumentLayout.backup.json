@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4397AF5-FB79-44EF-9D38-5BF6869AFED3}|Solutions_FA2\\Client.csproj|d:\\school\\2nd year\\solutions development\\work\\fa2\\code\\solutions_fa2\\solutions_fa2\\views\\home\\location.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4397AF5-FB79-44EF-9D38-5BF6869AFED3}|Solutions_FA2\\Client.csproj|solutionrelative:solutions_fa2\\views\\home\\location.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4397AF5-FB79-44EF-9D38-5BF6869AFED3}|Solutions_FA2\\Solutions_FA2.csproj|D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\solutions_fa2\\views\\home\\location.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4397AF5-FB79-44EF-9D38-5BF6869AFED3}|Solutions_FA2\\Solutions_FA2.csproj|solutionrelative:solutions_fa2\\views\\home\\location.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4397AF5-FB79-44EF-9D38-5BF6869AFED3}|Solutions_FA2\\Client.csproj|d:\\school\\2nd year\\solutions development\\work\\fa2\\code\\solutions_fa2\\solutions_fa2\\views\\home\\favourites.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4397AF5-FB79-44EF-9D38-5BF6869AFED3}|Solutions_FA2\\Client.csproj|solutionrelative:solutions_fa2\\views\\home\\favourites.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4397AF5-FB79-44EF-9D38-5BF6869AFED3}|Solutions_FA2\\Solutions_FA2.csproj|D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\solutions_fa2\\views\\home\\favourites.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4397AF5-FB79-44EF-9D38-5BF6869AFED3}|Solutions_FA2\\Solutions_FA2.csproj|solutionrelative:solutions_fa2\\views\\home\\favourites.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4397AF5-FB79-44EF-9D38-5BF6869AFED3}|Solutions_FA2\\Client.csproj|d:\\school\\2nd year\\solutions development\\work\\fa2\\code\\solutions_fa2\\solutions_fa2\\views\\home\\latestnews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4397AF5-FB79-44EF-9D38-5BF6869AFED3}|Solutions_FA2\\Client.csproj|solutionrelative:solutions_fa2\\views\\home\\latestnews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4397AF5-FB79-44EF-9D38-5BF6869AFED3}|Solutions_FA2\\Solutions_FA2.csproj|D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\solutions_fa2\\views\\home\\latestnews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4397AF5-FB79-44EF-9D38-5BF6869AFED3}|Solutions_FA2\\Solutions_FA2.csproj|solutionrelative:solutions_fa2\\views\\home\\latestnews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4397AF5-FB79-44EF-9D38-5BF6869AFED3}|Solutions_FA2\\Client.csproj|D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\solutions_fa2\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4397AF5-FB79-44EF-9D38-5BF6869AFED3}|Solutions_FA2\\Client.csproj|solutionrelative:solutions_fa2\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4397AF5-FB79-44EF-9D38-5BF6869AFED3}|Solutions_FA2\\Solutions_FA2.csproj|D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\solutions_fa2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4397AF5-FB79-44EF-9D38-5BF6869AFED3}|Solutions_FA2\\Solutions_FA2.csproj|solutionrelative:solutions_fa2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Location.cshtml",
+              "DocumentMoniker": "D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\Solutions_FA2\\Views\\Home\\Location.cshtml",
+              "RelativeDocumentMoniker": "Solutions_FA2\\Views\\Home\\Location.cshtml",
+              "ToolTip": "D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\Solutions_FA2\\Views\\Home\\Location.cshtml",
+              "RelativeToolTip": "Solutions_FA2\\Views\\Home\\Location.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:14:45.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Favourites.cshtml",
+              "DocumentMoniker": "D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\Solutions_FA2\\Views\\Home\\Favourites.cshtml",
+              "RelativeDocumentMoniker": "Solutions_FA2\\Views\\Home\\Favourites.cshtml",
+              "ToolTip": "D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\Solutions_FA2\\Views\\Home\\Favourites.cshtml",
+              "RelativeToolTip": "Solutions_FA2\\Views\\Home\\Favourites.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:14:42.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LatestNews.cshtml",
+              "DocumentMoniker": "D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\Solutions_FA2\\Views\\Home\\LatestNews.cshtml",
+              "RelativeDocumentMoniker": "Solutions_FA2\\Views\\Home\\LatestNews.cshtml",
+              "ToolTip": "D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\Solutions_FA2\\Views\\Home\\LatestNews.cshtml",
+              "RelativeToolTip": "Solutions_FA2\\Views\\Home\\LatestNews.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T06:34:22.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LatestNews.cshtml",
+              "DocumentMoniker": "D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\Solutions_FA2\\Views\\Home\\LatestNews.cshtml",
+              "RelativeDocumentMoniker": "Solutions_FA2\\Views\\Home\\LatestNews.cshtml",
+              "ToolTip": "D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\Solutions_FA2\\Views\\Home\\LatestNews.cshtml",
+              "RelativeToolTip": "Solutions_FA2\\Views\\Home\\LatestNews.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2022-05-01T18:35:48.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Favourites.cshtml",
+              "DocumentMoniker": "D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\Solutions_FA2\\Views\\Home\\Favourites.cshtml",
+              "RelativeDocumentMoniker": "Solutions_FA2\\Views\\Home\\Favourites.cshtml",
+              "ToolTip": "D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\Solutions_FA2\\Views\\Home\\Favourites.cshtml",
+              "RelativeToolTip": "Solutions_FA2\\Views\\Home\\Favourites.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2022-05-01T18:35:48.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\Solutions_FA2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Solutions_FA2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\Solutions_FA2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Solutions_FA2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2022-05-01T18:35:49.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\Solutions_FA2\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "Solutions_FA2\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\Solutions_FA2\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "Solutions_FA2\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2022-05-01T18:35:48.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Location.cshtml",
+              "DocumentMoniker": "D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\Solutions_FA2\\Views\\Home\\Location.cshtml",
+              "RelativeDocumentMoniker": "Solutions_FA2\\Views\\Home\\Location.cshtml",
+              "ToolTip": "D:\\School\\2nd Year\\Solutions Development\\Work\\FA2\\Code\\Solutions_FA2\\Solutions_FA2\\Views\\Home\\Location.cshtml",
+              "RelativeToolTip": "Solutions_FA2\\Views\\Home\\Location.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2022-05-01T18:35:48.813Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

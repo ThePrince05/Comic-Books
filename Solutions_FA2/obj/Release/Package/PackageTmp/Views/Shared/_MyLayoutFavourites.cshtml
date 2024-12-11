@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #000000;
+        }
+
+        li {
+            float: left;
+           
+        }
+
+            li a {
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 10px 50px;
+                text-decoration: none;
+                margin: 20px;
+            }
+
+                li a:hover:not(.active) {
+                    background-color: #282C35;
+                }
+
+        .active {
+            background-color: #04AA6D;
+        }
+        body {
+            background-color: #F2F2F2;
+        }
+        
+    </style>
+</head>
+<body>
+
+    <ul>
+        <li><a href="https://localhost:44350/Home/Index">Home</a></li>
+        <li><a href="https://localhost:44350/Home/Location">Location</a></li>
+        <li><a class="active" href="#Favourites">Favourites</a></li>
+        <li><a href="https://localhost:44350/Home/AboutUs"> About Us</a></li>
+        <li><a href="https://localhost:44350/Home/LatestNews">Latest News</a></li>
+    </ul>
+
+    <div>
+        @RenderBody()
+        </div>
+</body>
+</html>
+
+

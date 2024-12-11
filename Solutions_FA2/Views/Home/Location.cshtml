@@ -1,0 +1,83 @@
+﻿
+@{
+    ViewBag.Title = "Location";
+    Layout = "~/Views/Shared/_MyLayoutLocation.cshtml";
+}
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        h2 {
+            font-family: 'Agency FB';
+            font-size: 40px;
+            text-align: center;
+        }
+
+        #map {
+            
+            height:700px;
+            width:100%;
+        }
+    
+    </style>
+</head>
+<body>
+
+
+    <u><h2>Comic Book Shops Nearby</h2></u>
+    <div id="map"></div>
+
+    <script>
+        function initMap() {
+            var location = { lat: - 25.826370529565263, lng: 28.28611061504086 }
+            var location2 = { lat: - 25.782041674917522, lng: 28.275808434732586 }
+            var location3 = { lat: - 25.78731018729475, lng: 28.27731699194987 }
+            var location4 = { lat: - 25.780944868081786, lng: 28.275091407825617 }
+            var location5 = { lat: - 25.788619660468473, lng: 28.314667730575124 }
+
+
+            var map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 12.4,
+                center: location
+            });
+
+            var marker = new google.maps.Marker({
+                position: location,
+                title: "The Geek Home",
+                map: map
+            });
+
+            var marker2 = new google.maps.Marker({
+                position: location2,
+                title: "Exclusive Books Menlyn",
+                map: map
+            });
+
+            var marker3 = new google.maps.Marker({
+                position: location3,
+                title: "JIX HOBBIES",
+                map: map
+            });
+
+            var marker4 = new google.maps.Marker({
+                position: location4,
+                title: "CNA MENLYN PRETORIA",
+                map: map
+            });
+            var marker5 = new google.maps.Marker({
+                position: location5,
+                title: "Mega Books",
+                map: map
+            });
+        }
+
+
+    </script>
+
+    <!-- Link own google maps api key here -->
+    <script async defer src="">
+
+    </script>
+</body>
+</html>
